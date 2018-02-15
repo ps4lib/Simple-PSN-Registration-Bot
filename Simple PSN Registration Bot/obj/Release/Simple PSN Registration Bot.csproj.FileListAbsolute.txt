@@ -1,0 +1,10 @@
+C:\Users\samde\source\repos\Simple PSN Registration Bot\Simple PSN Registration Bot\bin\Release\Simple PSN Registration Bot.exe.config
+C:\Users\samde\source\repos\Simple PSN Registration Bot\Simple PSN Registration Bot\bin\Release\Simple PSN Registration Bot.exe
+C:\Users\samde\source\repos\Simple PSN Registration Bot\Simple PSN Registration Bot\bin\Release\Simple PSN Registration Bot.pdb
+C:\Users\samde\source\repos\Simple PSN Registration Bot\Simple PSN Registration Bot\obj\Release\Simple PSN Registration Bot.csprojResolveAssemblyReference.cache
+C:\Users\samde\source\repos\Simple PSN Registration Bot\Simple PSN Registration Bot\obj\Release\Simple_PSN_Registration_Bot.Main.resources
+C:\Users\samde\source\repos\Simple PSN Registration Bot\Simple PSN Registration Bot\obj\Release\Simple_PSN_Registration_Bot.Properties.Resources.resources
+C:\Users\samde\source\repos\Simple PSN Registration Bot\Simple PSN Registration Bot\obj\Release\Simple PSN Registration Bot.csproj.GenerateResource.Cache
+C:\Users\samde\source\repos\Simple PSN Registration Bot\Simple PSN Registration Bot\obj\Release\Simple PSN Registration Bot.csproj.CoreCompileInputs.cache
+C:\Users\samde\source\repos\Simple PSN Registration Bot\Simple PSN Registration Bot\obj\Release\Simple PSN Registration Bot.exe
+C:\Users\samde\source\repos\Simple PSN Registration Bot\Simple PSN Registration Bot\obj\Release\Simple PSN Registration Bot.pdb
